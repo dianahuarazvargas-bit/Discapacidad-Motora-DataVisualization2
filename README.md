@@ -23,23 +23,16 @@ Este proyecto busca identificar y analizar la distribución de personas con **di
 ## 📈 Visualizaciones generadas  
 
 🔹 **Distribución por Edad**  
-🔗 [Ver gráfico](./graficos/grafico_distribucion_edad.html)  
+🔗 [Ver gráfico](./visualizations/grafico_distribucion_edad.html)  
 
 🔹 **Distribución por Género**  
-🔗 [Ver gráfico](./graficos/grafico_Distribución_por_Género.html)  
+🔗 [Ver gráfico](./visualizations/grafico_Distribución_por_Género.html)  
 
 🔹 **Distribución por Estado Civil**  
-🔗 [Ver gráfico](./graficos/grafico_Distribución_por_Estado_Civil.html)  
+🔗 [Ver gráfico](./visualizations/grafico_Distribución_por_Estado_Civil.html)  
 
 🔹 **Distribución por Nivel Educativo**  
 🔗 [Ver gráfico](./graficos/grafico_Distribución_por_Nivel_Educativo.html)  
-
-🔹 **Top 10 Departamentos con mayor número de personas con discapacidad motora**  
-🔗 [Ver gráfico](./graficos/top10_departamentos.png)  
-
-🔹 **Distribución total de personas con discapacidad motora en todos los departamentos del Perú**  
-🔗 [Ver gráfico](./graficos/distribucion_total.png)  
-
 ---
 
 ## 🗂️ Fuente de datos y herramientas utilizadas  
