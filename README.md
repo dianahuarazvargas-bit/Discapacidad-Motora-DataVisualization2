@@ -32,7 +32,8 @@ Este proyecto busca identificar y analizar la distribución de personas con **di
 🔗 [Ver gráfico](./visualizations/grafico_Distribución_por_Estado_Civil.html)  
 
 🔹 **Distribución por Nivel Educativo**  
-🔗 [Ver gráfico](./graficos/grafico_Distribución_por_Nivel_Educativo.html)  
+🔗 [Ver gráfico](./visualizations/grafico_Distribución_por_Nivel_Educativo.html)  
+
 ---
 
 ## 🗂️ Fuente de datos y herramientas utilizadas  
