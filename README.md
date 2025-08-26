@@ -1,4 +1,4 @@
-# 📊 Análisis de Discapacidad Motora – PortafoloCaso2  
+# 📊 Proyecto 2: Perfil demográfico de personas con limitación de locomoción 
 
 ## 🎯 Objetivo del análisis  
 Este proyecto busca identificar y analizar la distribución de personas con **discapacidad motora** en el Perú, con el fin de:  
