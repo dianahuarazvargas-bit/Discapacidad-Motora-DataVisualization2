@@ -48,7 +48,10 @@ Este proyecto busca identificar y analizar la distribución de personas con **di
   Los registros provienen de la plataforma:  
   🔗 [Datos Abiertos del Estado Peruano](https://www.datosabiertos.gob.pe/)  
 
-- **Herramientas empleadas en el análisis:**  
+---
+
+### 🛠️ Herramientas utilizadas
+ 
   - **Python 3**  
   - **Jupyter Notebook** (ejecución del análisis en `PortafoloCaso2.ipynb`)  
   - Librerías de análisis de datos:  
@@ -57,4 +60,7 @@ Este proyecto busca identificar y analizar la distribución de personas con **di
   - Librerías de visualización:  
     - `matplotlib` → generación de gráficos  
     - `seaborn` → visualizaciones estadísticas más estilizadas  
-    - `plotly` → gráficos interactivos en HTML  
+    - `plotly` → gráficos interactivos en HTML
+---
+### 👩‍💻 Sobre el análisis
+La limitación de locomoción es más frecuente en personas de entre 40 y 70 años, con un pico alrededor de los 60 años. En cuanto al género, los hombres representan la mayoría de los casos con un 57.9%, superando a las mujeres. Respecto al estado civil, la mayoría son solteros, con un 73.9%, y en términos de nivel educativo, predominan aquellos con educación no especificada o nula, lo que indica que esta población presenta en su mayoría bajos niveles de escolaridad.
